@@ -57,7 +57,7 @@ In your terminal, choose a location to practice in and navigate to it.
 
 Create a new file called `my_list.txt`. The file extension suggests to humans
 and operating systems that it contains text. Open the file in VS Code by typing
-`code my_list.txt`; you will do all editing for this lesson in VS Code.
+`_list.txt`; you will do all editing for this lesson in VS Code.
 
 Remember your collection of things? Now write in a few of them in your file.
 Here's an example from us (songs in the English post-punk genre).
